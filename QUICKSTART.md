@@ -26,9 +26,11 @@ winget install --id Git.Git            --silent --accept-source-agreements --acc
 ## 2. Clone the repo
 
 ```
-git clone https://github.com/molotovgit/Creative_Automation.git
-cd Creative_Automation
+git clone https://github.com/molotovgit/Creative_Automation_New_Machine.git
+cd Creative_Automation_New_Machine
 ```
+
+> Already have the folder (e.g., copied via USB)? Skip this step.
 
 ---
 
